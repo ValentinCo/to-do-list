@@ -1,0 +1,19 @@
+.titre {
+	text-align: center;
+
+}
+*{
+	background-color: green;
+	font-family: Open Sans; 
+} 
+.done {
+
+	text-decoration:line-through; 
+
+}
+input {
+	size: 200;
+
+	}
+
+	
