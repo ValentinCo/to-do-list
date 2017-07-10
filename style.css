@@ -1,6 +1,26 @@
+
+
 .titre {
 	text-align: center;
 
+}
+*{
+	background-color: white;
+	font-family: Open Sans; 
+} 
+.done {
+
+	text-decoration:line-through; 
+
+}
+input {
+	size: 200;
+
+	}
+
+
+	
+	}
 }
 *{
 	background-color: green;
@@ -17,3 +37,16 @@ input {
 	}
 
 	
+	}
+#toDo {
+
+	display: flex;
+	flex-direction: column;
+	}
+
+#done {
+
+	display: flex;
+	flex-direction: column;
+	}
+
